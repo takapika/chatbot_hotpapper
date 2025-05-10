@@ -18,6 +18,9 @@
 
 # RAGの実装方法と工夫点
 まず取得するものは、ホットペッパーAPIを使用して南魚沼市のランチ事情を取得したテキストを使用します。
+
+https://webservice.recruit.co.jp/doc/hotpepper/reference.html
+
 フォーマットはjsonファイルとなります。
 
 # 結果の分析と考察
